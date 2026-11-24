@@ -32,7 +32,7 @@ All maps, flood/road closures, scenarios, and evaluation results in this reposit
    ```
 2. **Generate synthetic map/data:**
    ```powershell
-   python -m src.generate_map --seed 42 --output data/sample_network_seed42.json
+   python -m src.generate_data --seed 42 --output data/sample_network_seed42.json
    ```
 3. **Run tests:**
    ```powershell

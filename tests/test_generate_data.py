@@ -1,4 +1,4 @@
-﻿from src.generate_data import generate_flood_network
+from src.generate_data import generate_flood_network
 
 
 def test_same_seed_produces_identical_network() -> None:
